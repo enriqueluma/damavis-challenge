@@ -1,6 +1,6 @@
 # damavis-challenge
 ## Solution used
-For solving this problem I've decided to use the Breath First Search algorithm.
+For solving this problem I've decided to use the Breadth First Search algorithm.
 
 ## How to improve
 For smaller labyrinths such as the ones provided in the Challenge documentation, BFS is a suitable algorithm. However, I am aware that there could be some bigger labyrinths, up to 1000x1000. In this case, I am aware that there are more optimal solutions in regards time complexity. For example, the A*. 
